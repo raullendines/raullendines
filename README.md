@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raullendines
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React, Vue, Laravel, Java, among others
+- 📫 How to reach me -> raullendines@gmail.com
