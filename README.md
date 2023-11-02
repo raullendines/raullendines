@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raül</h1>
 <h3 align="center">I’m currently studying Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raullenines&label=Profile%20views&color=0e75b6&style=flat" alt="raullenines" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raullenines" alt="raullenines" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raullendines" alt="raullendines" /></a> </p>
 
 - 🌱 I’m currently learning **algorithms**
 
