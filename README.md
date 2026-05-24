@@ -1,4 +1,4 @@
-# 👋 Hola, soy Raúl Lendines
+# 👋 Hola, me llamo Raül
 
 **Software Engineer** — terminando Ingeniería Informática con especialización en Computación (Ciencia de Datos).
 
