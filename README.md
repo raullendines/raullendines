@@ -26,12 +26,6 @@ Framework local de investigación y backtesting sistemático. Descarga datos de 
 - Sharpe 0.94 | CAGR 9.71% en backtest ETF 2025
 - Python · pandas · ib_insync · pydantic
 
-### [projecte_eywa](https://github.com/raullendines/projecte_eywa)
-Aplicación Android + backend para gestión de reservas y servicios. Arquitectura cliente-servidor completa.
-
-### [beautiful-html-templates](https://github.com/raullendines/beautiful-html-templates)
-Librería de templates HTML para slides. Diseñada para que cualquier agente de código pueda generar decks visuales automáticamente.
-
 ---
 
 ## 📊 GitHub Stats
