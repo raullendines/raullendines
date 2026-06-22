@@ -17,14 +17,9 @@ I work as an intern in Sibilare, where we make data pipelines, data analysis and
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-Me llamo **@raullendines** en todas partes — si ves ese username, soy yo.
+My username is **@raullendines** everywhere, if you see it it's me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raullendines)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/raullendines)
-
-
----
-
-> *"Lo que no se mide, no se mejora."*
