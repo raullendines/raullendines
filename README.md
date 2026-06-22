@@ -1,12 +1,12 @@
-# 👋 Hola, me llamo Raül
+# Hey! My name is Raül
 
-**Software Engineer** — terminando Ingeniería Informática con especialización en Computación (Ciencia de Datos).
+**Software Engineer** — finishing my software engineering (Data Science).
 
-Trabajo como interino en **Sibilare**, donde toco pipelines de datos, front-end y procesos de extracción. Me gusta investigar metodologías nuevas, construir herramientas útiles y entender los sistemas desde abajo.
+I work as an intern in Sibilare, where we make data pipelines, data analysis and frontend redesigns. I love learning new methodologies, building tools and undestanding the systems from the ground up.
 
 ---
 
-## 🧰 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -14,7 +14,6 @@ Trabajo como interino en **Sibilare**, donde toco pipelines de datos, front-end 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
